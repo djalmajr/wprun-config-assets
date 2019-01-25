@@ -1,18 +1,18 @@
 {
-  "name": "wprun-config-images",
+  "name": "wprun-config-assets",
   "version": "0.1.0",
-  "description": "Image config for wprun",
+  "description": "Assets config for wprun",
   "author": "Djalma Jr. <djalmajr@gmail.com>",
   "license": "UNLICENSED",
   "main": "index.js",
   "contributors": [],
-  "homepage": "https://github.com/djalmajr/wprun-config-images/tree/master#readme",
+  "homepage": "https://github.com/djalmajr/wprun-config-assets/tree/master#readme",
   "bugs": {
-    "url": "https://github.com/djalmajr/wprun-config-images/issues"
+    "url": "https://github.com/djalmajr/wprun-config-assets/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:djalmajr/wprun-config-images.git"
+    "url": "git@github.com:djalmajr/wprun-config-assets.git"
   },
   "dependencies": {
     "file-loader": "^3.0.1",
