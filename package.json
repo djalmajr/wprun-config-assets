@@ -1,0 +1,21 @@
+{
+  "name": "wprun-config-images",
+  "version": "0.1.0",
+  "description": "Image config for wprun",
+  "author": "Djalma Jr. <djalmajr@gmail.com>",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "contributors": [],
+  "homepage": "https://github.com/djalmajr/wprun-config-images/tree/master#readme",
+  "bugs": {
+    "url": "https://github.com/djalmajr/wprun-config-images/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:djalmajr/wprun-config-images.git"
+  },
+  "dependencies": {
+    "file-loader": "^3.0.1",
+    "url-loader": "^1.1.2"
+  }
+}
